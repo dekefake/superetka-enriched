@@ -1,5 +1,5 @@
 # SuperETKA Enriched
-Maintaining a V10 RS6 is a nightmare when VAG decides to gatekeep technical specifications and supersessions. I'm tired of cross-referencing parts, dealing with unavailabilities and finding myself stuck with lack of spec.
+Maintaining a V10 RS6 is a nightmare when VAG forgot to document technical specifications on ETKA. I'm tired of cross-referencing parts, dealing with unavailabilities and finding myself stuck with lack of spec and counting pixels on YouTube screenshots.
 
 ## Core Logic
 - Automated Linking: Scans the DOM for VAG reference spans and injects direct search links on OEMVWShop. No more copy-pasting part numbers.
