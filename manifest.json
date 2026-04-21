@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "SuperETKA Enriched",
+  "version": "1.0",
+  "description": "Enriches ETKA with community findings",
+  "content_scripts": [
+    {
+      "matches": ["*://*.superetka.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
